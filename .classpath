@@ -3,6 +3,9 @@
 	<classpathentry kind="src" path="Lambda_Ex"/>
 	<classpathentry kind="src" path="Multithreading"/>
 	<classpathentry kind="src" path="Serialization"/>
+	<classpathentry kind="src" path="Date_Time"/>
+	<classpathentry kind="src" path="Regular_Ex"/>
+	<classpathentry kind="src" path="Collection"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
