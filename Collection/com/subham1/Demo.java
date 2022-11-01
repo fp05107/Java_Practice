@@ -14,9 +14,9 @@ public class Demo {
 		list.add(4);
 		list.add(null);
 		
-		System.out.println(list.get(9));
-		Object[] x = list.toArray();
-		System.out.println(x[6]);
+//		System.out.println(list.get(9));
+//		Object[] x = list.toArray();
+//		System.out.println(x[6]);
 		
 //		ArrayList al = new ArrayList();
 //		al.add(10);

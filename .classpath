@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="Date_Time"/>
 	<classpathentry kind="src" path="Regular_Ex"/>
 	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="Var_args_and_Enums"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
