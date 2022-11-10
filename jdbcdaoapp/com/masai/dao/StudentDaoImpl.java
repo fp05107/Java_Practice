@@ -1,5 +1,4 @@
 package com.masai.dao;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -11,7 +10,8 @@ import com.mysql.cj.protocol.Resultset;
 
 
 public class StudentDaoImpl implements StudentDao {
-
+	
+	
 	@Override
 	public String insertStudentDetails(int roll, String name, int marks) {
 		String message = "Not Inserted.......";
