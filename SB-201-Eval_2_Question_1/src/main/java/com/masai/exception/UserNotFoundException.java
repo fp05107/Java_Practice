@@ -1,4 +1,5 @@
-package com.masai;
+package com.masai.exception;
+
 
 public class UserNotFoundException extends Exception{
 
